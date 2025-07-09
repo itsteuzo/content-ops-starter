@@ -93,7 +93,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Assinar
-            url: /
+            url: wa.me/5511991300889
             icon: arrowRight
             iconPosition: right
             style: secondary
