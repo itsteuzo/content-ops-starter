@@ -11,7 +11,10 @@ sections:
         self:
           textAlign: center
           fontWeight: 700
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Design de impacto, redes sociais engajadas, campanhas certeiras e
+      marketing que converte — tudo em um só lugar, pronto para escalar o seu
+      negócio.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
