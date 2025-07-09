@@ -1,6 +1,6 @@
 ---
 title: Pricing
-slug: pricing
+slug: planos
 sections:
   - title:
       text: Planos
