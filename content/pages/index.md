@@ -42,7 +42,7 @@ sections:
           - pr-16
       subtitle:
         textAlign: left
-        fontWeight: 500
+        fontWeight: 400
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
