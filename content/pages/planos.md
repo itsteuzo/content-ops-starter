@@ -107,6 +107,7 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
+            justifyContent: center
         type: PricingPlan
     colors: bg-dark-fg-light
     styles:
