@@ -44,7 +44,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Profissional
-        price: $99
+        price: R$ 599
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
