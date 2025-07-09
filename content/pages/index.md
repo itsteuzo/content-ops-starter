@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-          fontWeight: 500
+          fontWeight: 700
     subtitle: >-
       Design de impacto, redes sociais engajadas, campanhas certeiras e
       marketing que converte, tudo em um só lugar.
