@@ -59,7 +59,7 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: ''
+          - label: Assinar
             url: ''
             icon: arrowRight
             iconPosition: right
