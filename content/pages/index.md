@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: center
+          textAlign: left
           fontWeight: 700
     subtitle: >-
       Design de impacto, redes sociais engajadas, campanhas certeiras e
