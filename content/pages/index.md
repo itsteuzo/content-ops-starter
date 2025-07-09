@@ -16,7 +16,7 @@ sections:
       marketing que converte, tudo em um só lugar.
     text: ''
     actions:
-      - label: Get started
+      - label: Começar
         altText: ''
         url: /
         showIcon: false
