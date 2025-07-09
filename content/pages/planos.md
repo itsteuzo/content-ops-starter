@@ -108,7 +108,7 @@ sections:
               - pr-6
             borderRadius: large
             justifyContent: flex-start
-            borderColor: border-neutral
+            borderColor: border-dark
         type: PricingPlan
     colors: bg-dark-fg-light
     styles:
