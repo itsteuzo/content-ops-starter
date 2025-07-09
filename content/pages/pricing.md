@@ -76,7 +76,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Empresarial
-        price: Custom
+        price: R$ 629
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
