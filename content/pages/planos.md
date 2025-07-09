@@ -110,37 +110,6 @@ sections:
             justifyContent: flex-start
             borderColor: border-primary
         type: PricingPlan
-      - type: PricingPlan
-        title: Personalizado
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          type: ImageBlock
-          altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
     colors: bg-dark-fg-light
     styles:
       self:
