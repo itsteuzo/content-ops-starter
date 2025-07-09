@@ -60,7 +60,7 @@ sections:
           type: ImageBlock
         actions:
           - label: ''
-            url: /
+            url: ''
             icon: arrowRight
             iconPosition: right
             style: secondary
