@@ -111,7 +111,7 @@ sections:
             borderColor: border-primary
         type: PricingPlan
       - type: PricingPlan
-        title: Developers
+        title: Personalizado
         price: Free
         details: No credit card required
         description: >-
