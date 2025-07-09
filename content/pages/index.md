@@ -50,6 +50,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Banner BehindVisual.png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
