@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Impulsione sua Marca com Beleza, Estratégia e Criatividade'
-      color: text-dark
+      color: text-light
       type: TitleBlock
       styles:
         self:
