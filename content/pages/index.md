@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: 'Impulsione sua Marca com Beleza, Estratégia e Criatividade'
-      color: text-light
+      color: text-dark
     subtitle: Be in good company
     text: >
       A service that provides advice and guidance to startups and small
