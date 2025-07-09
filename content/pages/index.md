@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: 'Impulsione sua Marca com Beleza, Estratégia e Criatividade'
       color: text-dark
     subtitle: Be in good company
     text: >
