@@ -41,7 +41,7 @@ sections:
           - pb-16
           - pr-16
       subtitle:
-        textAlign: center
+        textAlign: left
         fontWeight: 500
     backgroundImage:
       type: BackgroundImage
