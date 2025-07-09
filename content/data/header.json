@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Planos",
-            "url": "/preço",
+            "url": "/planos",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
